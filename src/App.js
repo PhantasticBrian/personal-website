@@ -34,14 +34,14 @@ function App() {
         </a> */}
       </header>
       <main>
-        <h2 className="H-E-A-D-E-R">Experience</h2>
+        <h2 className="H-E-A-D-E-R">EXPERIENCE</h2>
         <h3 className="namerecognition">Snackpass</h3>
         <p className="corporateslavery">
           Worked on new accounting system (order management, restaurant
           reporting, CI/CD, prod/staging environments) that now processes $60M+
           a year.
         </p>
-        <h2 className="H-E-A-D-E-R">Projects</h2>
+        <h2 className="H-E-A-D-E-R">PROJECTS</h2>
       </main>
     </div>
   );
